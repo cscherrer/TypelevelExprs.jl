@@ -3,6 +3,10 @@ uuid = "dab892af-0426-4eb3-9530-91b7c5bd6bae"
 authors = ["Chad Scherrer <chad.scherrer@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+GeneralizedGenerated = "6b9d7cbe-bcb9-11e9-073f-15a7a543e2eb"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
 [compat]
 julia = "1"
 
