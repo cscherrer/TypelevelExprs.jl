@@ -8,6 +8,7 @@ GeneralizedGenerated = "6b9d7cbe-bcb9-11e9-073f-15a7a543e2eb"
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
 [compat]
+MacroTools = "0.5"
 julia = "1"
 
 [extras]
